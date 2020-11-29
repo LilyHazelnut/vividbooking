@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vividbooking/static/css/main.36b3c23e.chunk.css",
+    "main.js": "/vividbooking/static/js/main.d9fe97bd.chunk.js",
+    "main.js.map": "/vividbooking/static/js/main.d9fe97bd.chunk.js.map",
+    "runtime-main.js": "/vividbooking/static/js/runtime-main.e0d9fa2f.js",
+    "runtime-main.js.map": "/vividbooking/static/js/runtime-main.e0d9fa2f.js.map",
+    "static/js/2.9649002d.chunk.js": "/vividbooking/static/js/2.9649002d.chunk.js",
+    "static/js/2.9649002d.chunk.js.map": "/vividbooking/static/js/2.9649002d.chunk.js.map",
+    "static/js/3.505c2d3c.chunk.js": "/vividbooking/static/js/3.505c2d3c.chunk.js",
+    "static/js/3.505c2d3c.chunk.js.map": "/vividbooking/static/js/3.505c2d3c.chunk.js.map",
+    "index.html": "/vividbooking/index.html",
+    "static/css/main.36b3c23e.chunk.css.map": "/vividbooking/static/css/main.36b3c23e.chunk.css.map",
+    "static/js/2.9649002d.chunk.js.LICENSE.txt": "/vividbooking/static/js/2.9649002d.chunk.js.LICENSE.txt",
+    "static/media/Hotel.7b6a65e0.jpg": "/vividbooking/static/media/Hotel.7b6a65e0.jpg",
+    "static/media/Room1.b07069b4.jpg": "/vividbooking/static/media/Room1.b07069b4.jpg",
+    "static/media/Room2.9837dffb.jpg": "/vividbooking/static/media/Room2.9837dffb.jpg",
+    "static/media/bed.2ae918d9.jpg": "/vividbooking/static/media/bed.2ae918d9.jpg",
+    "static/media/breakfast.8e2d5623.jpg": "/vividbooking/static/media/breakfast.8e2d5623.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0d9fa2f.js",
+    "static/js/2.9649002d.chunk.js",
+    "static/css/main.36b3c23e.chunk.css",
+    "static/js/main.d9fe97bd.chunk.js"
+  ]
+}
