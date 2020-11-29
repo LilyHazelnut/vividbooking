@@ -1,0 +1,28 @@
+.bottombar-contact{
+    background: linear-gradient(130deg, rgba(255,255,255,1) 0%, rgba(88,117,223,1) 48%, rgba(0,212,255,1) 96%);
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position : absolute;
+    bottom: 0%;
+    width: 100%;
+}
+
+.bottombar-contact h3{
+    text-align: center;
+    color: #ffffff;
+}
+
+.ofcontact{
+    text-align: center;
+    margin-top : 6%;
+    color: #6745E3;
+}
+
+.last-h2{
+    text-align: center;
+    margin-top : 6%;
+    margin-bottom: 5%;
+    color: #6745E3;
+}

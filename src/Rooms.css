@@ -1,0 +1,48 @@
+.show-rooms{
+    margin-left: 10%;
+    margin-top: 5%;
+    display : flex;
+    margin-bottom: 5%;
+}
+
+.image-room{
+    width: 600px;
+    height: 400px;
+}
+
+.room-detail{
+    margin-left: 50px;
+    margin-right: 20px;
+    justify-content: center;
+}
+
+.room-detail p{
+    font-size: 22px;
+}
+
+.room-detail ul{
+    margin-top: 50px;
+}
+
+.room-detail li{
+    list-style-type: square;
+    margin-top: 35px
+}
+
+.inspect-room{
+    width: 90px;
+    height: 40px;
+    background : #F92B69;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.inspect-room:hover{
+    cursor: pointer;
+}
+
+.inspect-room p{
+    color : #ffffff;
+    
+}
